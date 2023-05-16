@@ -1,2 +1,2 @@
-# StatBook
-R and Python codes for a book "Understanding Statistics"
+# 통계학의 이해 11판 예제 코드
+본 repository는 통계학의 이해 11판 교재의 R과 Python 연습코드를 담고있다. 
