@@ -1,5 +1,5 @@
 # 통계학의 이해 10판 
-![cover](http://www.yulgokbooks.co.kr/admin/data/prdimg/2308160001_M1.jpg)
+![cover](2308160001_M1.jpg)
 본 repository는 <[통계학의 이해 10판]([https://tensorflow.blog/kerasdl2/](http://www.yulgokbooks.co.kr/shop/book.php?ptype=view&prdcode=2308160001&catcode=&page=1&&grp=new))> 교재의 R과 Python 연습 코드를 담고 있습니다. 
 
 - 교보문고 [Link](https://product.kyobobook.co.kr/detail/S000208572891)
