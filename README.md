@@ -3,6 +3,7 @@
 
 본 repository는 <[통계학의 이해 10판]([https://tensorflow.blog/kerasdl2/](http://www.yulgokbooks.co.kr/shop/book.php?ptype=view&prdcode=2308160001&catcode=&page=1&&grp=new))> 교재의 R과 Python 연습 코드를 담고 있습니다. 교재에서는 Python 코드가 다뤄지고 있지 않지만, 본 예제코드 github에서는 Python 버전의 코드도 제공하고 있습니다.
 
+- 율곡출판사 [Link](http://www.yulgokbooks.co.kr/shop/book.php?ptype=view&prdcode=2308160001&catcode=&page=1&&grp=new#blist)
 - 교보문고 [Link](https://product.kyobobook.co.kr/detail/S000208572891)
 
 ## 예제코드 링크
