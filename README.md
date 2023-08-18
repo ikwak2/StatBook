@@ -9,13 +9,13 @@
 ## 예제코드 링크
 각 목차에 해당하는 노트북은 다음과 같습니다.
 
-* 2장 자료의 표현과 측정 [R 예제코드](https://colab.research.google.com/github/ikwak2/StatBook/blob/master/ch2/2_9_R_prac.ipynb) | [Python 예제코드](/ch2/2_10_python_prac.ipynb)
+* 2장 자료의 표현과 측정 [R 예제코드](https://colab.research.google.com/github/ikwak2/StatBook/blob/master/ch2/2_9_R_prac.ipynb) | [Python 예제코드](https://colab.research.google.com/github/ikwak2/StatBook/blob/master/ch2/2_10_python_prac.ipynb)
 * 3장 확률 
-* 4장 확률변수와 확률분포 [R 예제코드](/ch4/4_9_R_prac.ipynb) | [Python 예제코드](/ch4/4_10_python_prac.ipynb)
-* 5장 이산형 확률분포 [R 예제코드](/ch4/4_9_R_prac.ipynb) | [Python 예제코드](/ch4/4_10_python_prac.ipynb)
-* 6장 연속형 확률분포 [R 예제코드](/ch5/5_8_R_prac.ipynb) | [Python 예제코드](/ch5/5_9_python_prac.ipynb)
-* 7장 확률표본과 추정 [R 예제코드](/ch6/6_6_R_prac.ipynb) | [Python 예제코드](/ch6/6_7_python_prac.ipynb)
-* 8장 가설검정 [R 예제코드](/ch8/8_10_R_prac.ipynb) | [Python 예제코드](/ch8/8_11_python_prac.ipynb)
-* 9장 회귀분석과 상관분석 [R 예제코드](/ch9/9_7_R_prac.ipynb) | [Python 예제코드](/ch9/9_8_python_prac.ipynb)
-* 10장 분산분석 [R 예제코드](/ch10/10_5_R_prac.ipynb) | [Python 예제코드](/ch10/10_6_python_prac.ipynb)
-* 11장 범주형 자료분석 [R 예제코드](/ch11/11_5_R_prac.ipynb) | [Python 예제코드](/ch11/11_6_python_prac.ipynb)
+* 4장 확률변수와 확률분포 [R 예제코드](https://colab.research.google.com/github/ikwak2/StatBook/blob/master/ch4/4_9_R_prac.ipynb) | [Python 예제코드](https://colab.research.google.com/github/ikwak2/StatBook/blob/master/ch4/4_10_python_prac.ipynb)
+* 5장 이산형 확률분포 [R 예제코드](https://colab.research.google.com/github/ikwak2/StatBook/blob/master/ch4/4_9_R_prac.ipynb) | [Python 예제코드](https://colab.research.google.com/github/ikwak2/StatBook/blob/master/ch4/4_10_python_prac.ipynb)
+* 6장 연속형 확률분포 [R 예제코드](https://colab.research.google.com/github/ikwak2/StatBook/blob/master/ch5/5_8_R_prac.ipynb) | [Python 예제코드](https://colab.research.google.com/github/ikwak2/StatBook/blob/master/ch5/5_9_python_prac.ipynb)
+* 7장 확률표본과 추정 [R 예제코드](https://colab.research.google.com/github/ikwak2/StatBook/blob/master/ch6/6_6_R_prac.ipynb) | [Python 예제코드](https://colab.research.google.com/github/ikwak2/StatBook/blob/master/ch6/6_7_python_prac.ipynb)
+* 8장 가설검정 [R 예제코드](https://colab.research.google.com/github/ikwak2/StatBook/blob/master/ch8/8_10_R_prac.ipynb) | [Python 예제코드](https://colab.research.google.com/github/ikwak2/StatBook/blob/master/ch8/8_11_python_prac.ipynb)
+* 9장 회귀분석과 상관분석 [R 예제코드](https://colab.research.google.com/github/ikwak2/StatBook/blob/master/ch9/9_7_R_prac.ipynb) | [Python 예제코드](https://colab.research.google.com/github/ikwak2/StatBook/blob/master/ch9/9_8_python_prac.ipynb)
+* 10장 분산분석 [R 예제코드](https://colab.research.google.com/github/ikwak2/StatBook/blob/master/ch10/10_5_R_prac.ipynb) | [Python 예제코드](https://colab.research.google.com/github/ikwak2/StatBook/blob/master/ch10/10_6_python_prac.ipynb)
+* 11장 범주형 자료분석 [R 예제코드](https://colab.research.google.com/github/ikwak2/StatBook/blob/master/ch11/11_5_R_prac.ipynb) | [Python 예제코드](https://colab.research.google.com/github/ikwak2/StatBook/blob/master/ch11/11_6_python_prac.ipynb)
