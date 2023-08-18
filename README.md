@@ -9,7 +9,7 @@
 ## 예제코드 링크
 각 목차에 해당하는 노트북은 다음과 같습니다.
 
-* 2장 자료의 표현과 측정 [R 예제코드](/ch2/2_9_R_prac.ipynb) | [Python 예제코드](/ch2/2_10_python_prac.ipynb)
+* 2장 자료의 표현과 측정 [R 예제코드](https://colab.research.google.com/github/ikwak2/StatBook/blob/master/ch2/2_9_R_prac.ipynb) | [Python 예제코드](/ch2/2_10_python_prac.ipynb)
 * 3장 확률 
 * 4장 확률변수와 확률분포 [R 예제코드](/ch4/4_9_R_prac.ipynb) | [Python 예제코드](/ch4/4_10_python_prac.ipynb)
 * 5장 이산형 확률분포 [R 예제코드](/ch4/4_9_R_prac.ipynb) | [Python 예제코드](/ch4/4_10_python_prac.ipynb)
